@@ -1,5 +1,5 @@
-#ifndef RGBMatrixPanel_h
-#define RGBMatrixPanel_h
+#ifndef RGBMatrixPanel128x32_h
+#define RGBMatrixPanel128x32_h
 
 #include "Adafruit_mfGFX/Adafruit_mfGFX.h"
 
